@@ -4,6 +4,8 @@
 * Python with Flask for Back-End.
 * MongoDB as the database, implemented with PyMongo.
 
+Project developed as a prototype in around 4h
+
 ## Features Implemented
 
 * Customers can access a ticket form and submit in it. Part of this form is customer identification via valid email address, name and affiliation.
