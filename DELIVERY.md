@@ -1,5 +1,3 @@
-# Programming assignment - Jobfeed fullstack developer - João Álvaro Ferreira
-
 ## Tech Stack
 
 * React for Front-End with Boostrap.
